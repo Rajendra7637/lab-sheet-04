@@ -1,9 +1,4 @@
-# Lab Sheet-04: Clustering and Dimensionality Reduction
 
-**Name:** <your name>
-**Roll No:** <your roll number>
-**Course:** MCA, 3rd Semester (2026-2027)
-**University:** COER University, Roorkee
 
 ## About this project
 
@@ -17,10 +12,8 @@ the clusters with the Silhouette Score and other measures.
 | File / Folder | What it does |
 |---|---|
 | `lab_sheet_04_all_programs.py` | All 35 programs in one file. Each program is its own cell. |
-| `notebooks/lab_sheet_04.ipynb` | The same programs as a Jupyter notebook. |
 | `datasets/customers.csv` | The dataset: 300 customers, 8 columns. |
 | `processed/customers_clustered.csv` | The dataset with cluster labels, saved by Program 34. |
-| `scripts/generate_dataset.py` | Creates `customers.csv` again if it gets deleted. |
 | `outputs/` | The graphs saved by the programs. |
 | `requirements.txt` | The list of libraries to install. |
 
@@ -82,12 +75,4 @@ Python version: 3.11 or above.
 which cluster has high income and low spending, and what kind of customers
 they might be.>
 
-## Observations
 
-<Write 3-4 points in your own words after you see your outputs. For example:
-what K the elbow and silhouette methods gave, whether K-Means and Hierarchical
-Clustering agreed, and how much information PCA kept.>
-
-## Conclusion
-
-<Write 2-3 lines in your own words about what you learned.>
