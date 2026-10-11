@@ -31,32 +31,7 @@ or Iris CSV and change the `FEATURES` list at the top of the main file.
 NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, Jupyter Notebook.
 Python version: 3.11 or above.
 
-## How to run it
 
-1. Open the project folder in VS Code.
-2. Open the terminal and make a virtual environment:
-
-   ```
-   python -m venv venv
-   venv\Scripts\activate
-   ```
-
-   (On Linux or Mac, use `source venv/bin/activate`.)
-
-3. Install the libraries:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Run the whole file:
-
-   ```
-   python lab_sheet_04_all_programs.py
-   ```
-
-   Or open the file in VS Code and click **Run Cell** above any program.
-   You can also open the `.ipynb` file and run the cells there.
 
 ## What the programs cover
 
@@ -68,11 +43,5 @@ Python version: 3.11 or above.
 - **Programs 22-29:** PCA, explained variance, and K-Means before and after PCA.
 - **Programs 30-35:** Silhouette Score, cluster profiles, pair plots, saving
   the clustered data, and the final comparison.
-
-## Cluster analysis
-
-<Run the programs, then describe each cluster in your own words. For example:
-which cluster has high income and low spending, and what kind of customers
-they might be.>
 
 
